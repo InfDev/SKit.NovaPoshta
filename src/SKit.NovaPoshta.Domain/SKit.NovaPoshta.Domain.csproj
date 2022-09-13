@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+	  <Authors>Alexander Shlyakhto</Authors>
+	  <Company>Alexander Shlyakhto - InfDev</Company>
+	  <Description>Domain types for API client library to the web-services of the postal and cargo company 'Nova Poshta'</Description>
+	  <License>MIT</License>
+	  <PackageProjectUrl>https://github.com/InfDev/SKit.NovaPoshta</PackageProjectUrl>
+	  <RepositoryUrl>https://api.nuget.org/v3/index.json</RepositoryUrl>
+	  <PackageTags>client, nova poshta, api, новая пошта, netcore, net6, csharp, C#</PackageTags>
+	  <Copyright>Copyright (C) Alexander Shlyakhto - InfDev</Copyright>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <Version>1.0.0</Version>
+
+  </PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\..\LICENSE">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+
+</Project>

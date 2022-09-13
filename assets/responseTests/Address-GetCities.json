@@ -1,0 +1,52 @@
+{
+  "success": true,
+  "data": [
+    {
+      "descriptionRu": "Киев",
+      "delivery1": true,
+      "delivery2": true,
+      "delivery3": true,
+      "delivery4": true,
+      "delivery5": true,
+      "delivery6": true,
+      "delivery7": true,
+      "area": "71508131-9b87-11de-822f-000c2965ae0e",
+      "settlementType": "563ced10-f210-11e3-8c4a-0050568002cf",
+      "isBranch": true,
+      "cityID": 4,
+      "settlementTypeDescription": "місто",
+      "settlementTypeDescriptionRu": "город",
+      "specialCashCheck": true,
+      "areaDescription": "Київська",
+      "areaDescriptionRu": "Киевская",
+      "ref": "8d5a980d-391c-11dd-90d9-001a92567626",
+      "description": "Київ"
+    },
+    {
+      "descriptionRu": "Киевец",
+      "delivery1": true,
+      "delivery2": false,
+      "delivery3": true,
+      "delivery4": false,
+      "delivery5": true,
+      "delivery6": false,
+      "delivery7": false,
+      "area": "71508134-9b87-11de-822f-000c2965ae0e",
+      "settlementType": "563ced13-f210-11e3-8c4a-0050568002cf",
+      "isBranch": false,
+      "cityID": 5624,
+      "settlementTypeDescription": "село",
+      "settlementTypeDescriptionRu": "село",
+      "specialCashCheck": true,
+      "areaDescription": "Львівська",
+      "areaDescriptionRu": "Львовская",
+      "ref": "6dbe5985-96d1-11ea-a970-b8830365ade4",
+      "description": "Київець"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "info": {
+    "totalCount": 2
+  }
+}

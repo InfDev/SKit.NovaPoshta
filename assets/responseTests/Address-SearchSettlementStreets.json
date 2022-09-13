@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": [
+    {
+      "totalCount": 1,
+      "addresses": [
+        {
+          "settlementRef": "e718a680-4b33-11e4-ab6d-005056801329",
+          "settlementStreetRef": "a4a83215-6858-11e6-8304-00505688561d",
+          "settlementStreetDescription": "Гайдай Зої",
+          "present": "вул. Гайдай Зої",
+          "streetsType": "0f1d7fbb-4bba-11e4-ab6d-005056801329",
+          "streetsTypeDescription": "вул.",
+          "location": {
+            "lat": 50.515328999608755,
+            "lon": 30.491281924769282
+          },
+          "streetsTypeDescriptionRu": ""
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "info": []
+}

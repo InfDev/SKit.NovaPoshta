@@ -1,0 +1,50 @@
+
+Model:  TrackingDocument, Method: GetStatusDocuments
+
+Нет унифицированной политики наименования свойств запросов и ответов (CamelCase или PascalCase).
+
+Не всегда информация об ошибке верная
+	Пример. При определении общей политики наименования CamelCase возвращается ошибка "Error: wrong format. Documents must be array".
+
+Свойства могут иметь разные типы.
+	Пример. ExpressWaybillAmountToPay - разные типы: string, number
+	
+Свойства даты и времени могут не соответствовать стандарту в json (ISO 8601-1:2019)
+	Примеры
+	- ScheduledDeliveryDate - в формате "02-09-2022 12:00:00"
+	- dateScan - "16:08 02.09.2022"
+	
+Свойства даты и времени, булевы, целые и десятичные когда не определены, то представлены пустой строкой, а не null
+
+
+Возвращаемое значение:
+- очень перегружено
+- есть похожие свойства, но не всегда понятно, чем отличаются
+- не сгрупированы логически (по подобъектам, например, SenderInfo, RecipientInfo, Cargo, CargoMovement, CargoStorage, Costs, Payments, ...)
+
+
+Формат даты и времени
+/// <summary>
+/// ISO 8601 date time parser (ISO 8601-1:2019).
+/// </summary>
+/// <remarks>
+/// Supports extended calendar date (5.2.2.1) and complete (5.4.2.1) calendar date/time of day
+/// representations with optional specification of seconds and fractional seconds.
+///
+/// Times can be explicitly specified as UTC ("Z" - 5.3.3) or offsets from UTC ("+/-hh:mm" 5.3.4.2).
+/// If unspecified they are considered to be local per spec.
+///
+/// Examples: (TZD is either "Z" or hh:mm offset from UTC)
+///
+///  YYYY-MM-DD               (eg 1997-07-16)
+///  YYYY-MM-DDThh:mm         (eg 1997-07-16T19:20)
+///  YYYY-MM-DDThh:mm:ss      (eg 1997-07-16T19:20:30)
+///  YYYY-MM-DDThh:mm:ss.s    (eg 1997-07-16T19:20:30.45)
+///  YYYY-MM-DDThh:mmTZD      (eg 1997-07-16T19:20+01:00)
+///  YYYY-MM-DDThh:mm:ssTZD   (eg 1997-07-16T19:20:3001:00)
+///  YYYY-MM-DDThh:mm:ss.sTZD (eg 1997-07-16T19:20:30.45Z)
+///
+/// Generally speaking we always require the "extended" option when one exists (3.1.3.5).
+/// The extended variants have separator characters between components ('-', ':', '.', etc.).
+/// Spaces are not permitted.
+/// </remarks>

@@ -1,0 +1,310 @@
+{
+  "success": true,
+  "data": [
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "ef905acd-e1f4-11e5-899e-005056887b8d",
+      "description": "1-а Вишнева"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "0c2b2d0a-650a-11e6-a9f2-005056887b8d",
+      "description": "1-а Дамбова"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "cd335133-f2ff-11dd-a18e-001d92f78697",
+      "description": "1-а Лінія"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "1bcb8bf2-c82d-11e6-8886-005056887b8d",
+      "description": "1-а Лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "b7267743-9f42-11e6-b5da-005056887b8d",
+      "description": "1-а Поперечна (Оболонь-2)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "059cf88b-e125-11e5-899e-005056887b8d",
+      "description": "1-а Продольна "
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "5487e33e-9dc0-11eb-80fb-b8830365bd04",
+      "description": "1-а Садова (Осокорки)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "a71182c5-e4f0-11e4-8a92-005056887b8d",
+      "description": "1-го Травня"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "d04edbf8-8979-11e7-ab8b-005056b2fc3d",
+      "description": "1-й Крилова"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "98ed9861-67c1-11e8-aa3a-0025b501a04b",
+      "description": "1-й Лісо-Степовий"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "563c5d82-0240-11e6-899e-005056887b8d",
+      "description": "1-й Польовий "
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "9a4c0a61-f999-11ea-80fb-b8830365bd04",
+      "description": "1-й Східно-Дальній "
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "563c5dd9-0240-11e6-899e-005056887b8d",
+      "description": "1-й Франка Івана"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "e61a01d6-c067-11e6-8b12-005056887b8d",
+      "description": "10-а Абрикосова"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "a059edb5-f514-11de-b82a-000c2965ae0e",
+      "description": "10-а Лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "d31cd006-d155-11e5-8478-005056887b8d",
+      "description": "10-а Садова"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "13eca148-ef6c-11e6-95d1-005056887b8d",
+      "description": "10-й Північно-Озерний"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "a059edb7-f514-11de-b82a-000c2965ae0e",
+      "description": "11-а Лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "2ecdaf4f-da1a-11e9-91ff-0025b501a04b",
+      "description": "11-а Садова (Русанівські сади)"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "b5b00b45-bbc9-11eb-80fb-b8830365bd04",
+      "description": "11-й Північно-Озерний "
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "19a50f37-bc8e-11eb-80fb-b8830365bd04",
+      "description": "11-та Абрикосова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "8418ccbc-d1a0-11e6-938d-005056887b8d",
+      "description": "110-а Садова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "6f0a9b08-76f5-11e5-b6f7-005056887b8d",
+      "description": "12-а Абрикосова"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "a059edb8-f514-11de-b82a-000c2965ae0e",
+      "description": "12-а Лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "0bf62198-8557-11ea-a970-b8830365ade4",
+      "description": "121-а Садова"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "1bcb8be0-c82d-11e6-8886-005056887b8d",
+      "description": "13-а лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "da44448f-7653-11e6-a9f2-005056887b8d",
+      "description": "14-а (Пуща-Водиця) "
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "a059edba-f514-11de-b82a-000c2965ae0e",
+      "description": "14-а Лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "1bcb8be9-c82d-11e6-8886-005056887b8d",
+      "description": "15-а лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "6bb315de-e28a-11e4-8a92-005056887b8d",
+      "description": "159-а Садова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "17d31342-47a3-11e8-aa3a-0025b501a04b",
+      "description": "162-а Садова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "dd63e6d3-d181-11e5-8478-005056887b8d",
+      "description": "19-а Садова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "9c8cd1cd-229e-11eb-80fb-b8830365bd04",
+      "description": "19-а Садова (Русанівські Сади)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "e07829d1-0e06-11e6-971e-005056887b8d",
+      "description": "2-а Абрикосова"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "a059edbb-f514-11de-b82a-000c2965ae0e",
+      "description": "2-А Лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "352c739c-81a2-11e7-ab8b-005056b2fc3d",
+      "description": "2-а Продольна"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "a522aa2d-5302-11e5-8d8d-005056887b8d",
+      "description": "2-й Лісо-Степовий"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "d615e9a0-e277-11e4-8a92-005056887b8d",
+      "description": "2-й Маршака"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "97ca318d-b81e-11e9-91ff-0025b501a04b",
+      "description": "2-й Північно-Озерний"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "5c474e20-8da9-11e9-91ff-0025b501a04b",
+      "description": "2-й Східно-Дальній"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "60bc5545-7fc3-11ea-a970-b8830365ade4",
+      "description": "2-й Франка Івана"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "1f748a3a-b2b2-11e5-8478-005056887b8d",
+      "description": "200-а Садова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "9c52bae8-0aed-11e7-95d1-005056887b8d",
+      "description": "206-а Садова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "fe3c5e72-9383-11e9-91ff-0025b501a04b",
+      "description": "209-а Садова"
+    },
+    {
+      "streetsTypeRef": "Street",
+      "streetsType": "вул.",
+      "ref": "c5d8f45d-d109-11e7-b9e3-0025b501a04b",
+      "description": "29-а Садова"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "16589e7a-68ad-11e8-aa3a-0025b501a04b",
+      "description": "3 Садовий"
+    },
+    {
+      "streetsTypeRef": "Line",
+      "streetsType": "лінія",
+      "ref": "c918a520-5023-11de-9bd4-0021918b679a",
+      "description": "3-а Лінія (Берковець)"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "64070ff0-8ee5-11e6-856b-005056887b8d",
+      "description": "3-й Лісо-Степовий"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "d615e9a3-e277-11e4-8a92-005056887b8d",
+      "description": "3-й Маршака"
+    },
+    {
+      "streetsTypeRef": "Lane",
+      "streetsType": "пров.",
+      "ref": "721cfe0e-2bac-11e6-9e93-005056887b8d",
+      "description": "3-й Північно-Озерний"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "info": {
+    "totalCount": 2800
+  }
+}

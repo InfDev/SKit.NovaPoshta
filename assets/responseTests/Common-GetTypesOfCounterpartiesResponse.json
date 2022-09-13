@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "data": [
+    {
+      "ref": "Organization",
+      "description": "Організація"
+    },
+    {
+      "ref": "PrivatePerson",
+      "description": "Приватна особа"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "info": []
+}

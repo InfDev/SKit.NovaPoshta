@@ -1,0 +1,94 @@
+{
+  "success": true,
+  "data": [
+    {
+      "totalCount": 9,
+      "addresses": [
+        {
+          "warehouses": 5798,
+          "mainDescription": "Київ",
+          "area": "Київська",
+          "region": "",
+          "settlementTypeCode": "м.",
+          "deliveryCity": "8d5a980d-391c-11dd-90d9-001a92567626",
+          "ref": "e718a680-4b33-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 2,
+          "mainDescription": "Київець",
+          "area": "Львівська",
+          "region": "Миколаївський",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "6dbe5985-96d1-11ea-a970-b8830365ade4",
+          "ref": "0df25497-4b3a-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 0,
+          "mainDescription": "Київ",
+          "area": "Миколаївська",
+          "region": "Доманівський",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "06f8795a-4079-11de-b509-001d92f78698",
+          "ref": "0db2df4b-4b3a-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 0,
+          "mainDescription": "Київка",
+          "area": "Херсонська",
+          "region": "Голопристанський",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "fd249301-887a-11e9-898c-005056b24375",
+          "ref": "0dd153b3-4b3a-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 0,
+          "mainDescription": "Київське",
+          "area": "Запорізька",
+          "region": "Новомиколаївський",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "cfbeaca4-4063-11de-b509-001d92f78698",
+          "ref": "0e40bf5a-4b3a-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 0,
+          "mainDescription": "Київське",
+          "area": "Миколаївська",
+          "region": "Баштанський",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "000655dc-4079-11de-b509-001d92f78698",
+          "ref": "0d94f546-4b3a-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 0,
+          "mainDescription": "Київське",
+          "area": "Миколаївська",
+          "region": "Новоодеський",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "000655d8-4079-11de-b509-001d92f78698",
+          "ref": "0dc2dec1-4b3a-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 0,
+          "mainDescription": "Київське",
+          "area": "Полтавська",
+          "region": "Гадяцький",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "7833e610-3b51-11de-913b-001d92f78698",
+          "ref": "0e1c492c-4b3a-11e4-ab6d-005056801329"
+        },
+        {
+          "warehouses": 0,
+          "mainDescription": "Київське",
+          "area": "Дніпропетровська",
+          "region": "Синельниківський",
+          "settlementTypeCode": "с.",
+          "deliveryCity": "69da419c-3f5d-11de-b509-001d92f78698",
+          "ref": "0e117408-4b3a-11e4-ab6d-005056801329"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "info": []
+}

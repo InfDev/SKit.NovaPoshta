@@ -1,0 +1,67 @@
+Строки стандартных форматов даты и времени инвариантные к региональным параметрам)
+и поддерживаемые ими форматы
+для корректного преобразования в DateTime при помощи DateTime[Offset].ParseExact
+
+'o' - поддерживает форматы
+        yyyy'-'MM'-'dd'T'HH':'mm':'ss.fffffffK
+'r' - поддерживает форматы
+        ddd, dd MMM yyyy HH':'mm':'ss 'GMT'
+'s' - поддерживает форматы
+        yyyy'-'MM'-'dd'T'HH':'mm':'ss
+'u' - поддерживает форматы
+        yyyy'-'MM'-'dd HH':'mm':'ss'Z'
+
+Строки стандартных форматов даты и времени (НЕ инвариантные к региональным параметрам)
+
+'d' - поддерживает форматы
+        dd.MM.yyyy
+        d MMM yyyy 'г'.
+'f' - поддерживает форматы
+        d MMMM yyyy 'г.' H:mm
+        d MMMM yyyy 'г.' HH:mm
+        dddd, d MMMM yyyy 'г'. H:mm
+        dddd, d MMMM yyyy 'г'. HH:mm
+        d MMMM yyyy 'г'. H:mm
+        d MMMM yyyy 'г'. HH:mm
+'g' - поддерживает форматы
+        dd.MM.yyyy H:mm
+        dd.MM.yyyy HH:mm
+        d MMM yyyy 'г'. H:mm
+        d MMM yyyy 'г'. HH:mm
+
+Текущая дата:
+
+Формат 'o' | 2022-09-05T11:01:28.6972323+03:00
+Формат 'r' | Mon, 05 Sep 2022 11:01:28 GMT
+Формат 's' | 2022-09-05T11:01:28
+Формат 'u' | 2022-09-05 11:01:28Z
+Формат 'd' | 05.09.2022
+Формат 'f' | 5 сентября 2022 г. 11:01
+Формат 'g' | 05.09.2022 11:01
+
+
+Формат даты и времени
+/// <summary>
+/// ISO 8601 date time parser (ISO 8601-1:2019).
+/// </summary>
+/// <remarks>
+/// Supports extended calendar date (5.2.2.1) and complete (5.4.2.1) calendar date/time of day
+/// representations with optional specification of seconds and fractional seconds.
+///
+/// Times can be explicitly specified as UTC ("Z" - 5.3.3) or offsets from UTC ("+/-hh:mm" 5.3.4.2).
+/// If unspecified they are considered to be local per spec.
+///
+/// Examples: (TZD is either "Z" or hh:mm offset from UTC)
+///
+///  YYYY-MM-DD               (eg 1997-07-16)
+///  YYYY-MM-DDThh:mm         (eg 1997-07-16T19:20)
+///  YYYY-MM-DDThh:mm:ss      (eg 1997-07-16T19:20:30)
+///  YYYY-MM-DDThh:mm:ss.s    (eg 1997-07-16T19:20:30.45)
+///  YYYY-MM-DDThh:mmTZD      (eg 1997-07-16T19:20+01:00)
+///  YYYY-MM-DDThh:mm:ssTZD   (eg 1997-07-16T19:20:3001:00)
+///  YYYY-MM-DDThh:mm:ss.sTZD (eg 1997-07-16T19:20:30.45Z)
+///
+/// Generally speaking we always require the "extended" option when one exists (3.1.3.5).
+/// The extended variants have separator characters between components ('-', ':', '.', etc.).
+/// Spaces are not permitted.
+/// </remarks>

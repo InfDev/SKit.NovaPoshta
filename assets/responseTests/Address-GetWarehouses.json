@@ -1,0 +1,92 @@
+{
+  "success": true,
+  "data": [
+    {
+      "siteKey": 298,
+      "descriptionRu": "Отделение \u211625 (до 30 кг): ул. М. Тимошенко, 9",
+      "shortAddress": "Київ, М. Тимошенка, 9",
+      "shortAddressRu": "Киев, М. Тимошенко, 9",
+      "phone": "380800500609",
+      "typeOfWarehouse": "841339c7-591a-42e2-8233-7a0a00f0ed6f",
+      "number": 25,
+      "cityRef": "8d5a980d-391c-11dd-90d9-001a92567626",
+      "cityDescription": "Київ",
+      "cityDescriptionRu": "Киев",
+      "settlementRef": "e718a680-4b33-11e4-ab6d-005056801329",
+      "settlementDescription": "Київ",
+      "settlementAreaDescription": "Київська",
+      "settlementRegionsDescription": "",
+      "settlementTypeDescription": "місто",
+      "settlementTypeDescriptionRu": "город",
+      "latitude": 50.509762000000000,
+      "longitude": 30.490456000000000,
+      "postFinance": true,
+      "bicycleParking": false,
+      "paymentAccess": true,
+      "posTerminal": true,
+      "internationalShipping": true,
+      "selfServiceWorkplacesCount": true,
+      "totalMaxWeightAllowed": 30,
+      "placeMaxWeightAllowed": 0,
+      "sendingLimitationsOnDimensions": {
+        "width": 120,
+        "height": 120,
+        "length": 120
+      },
+      "receivingLimitationsOnDimensions": {
+        "width": 120,
+        "height": 120,
+        "length": 120
+      },
+      "reception": {
+        "monday": "08:00-21:00",
+        "tuesday": "08:00-21:00",
+        "wednesday": "08:00-21:00",
+        "thursday": "08:00-21:00",
+        "friday": "08:00-21:00",
+        "saturday": "09:00-18:00",
+        "sunday": "09:00-18:00"
+      },
+      "delivery": {
+        "monday": "08:00-21:00",
+        "tuesday": "08:00-21:00",
+        "wednesday": "08:00-21:00",
+        "thursday": "08:00-21:00",
+        "friday": "08:00-21:00",
+        "saturday": "09:00-18:00",
+        "sunday": "09:00-18:00"
+      },
+      "schedule": {
+        "monday": "08:00-21:00",
+        "tuesday": "08:00-21:00",
+        "wednesday": "08:00-21:00",
+        "thursday": "08:00-21:00",
+        "friday": "08:00-21:00",
+        "saturday": "09:00-18:00",
+        "sunday": "09:00-18:00"
+      },
+      "districtCode": "Д2/п25",
+      "warehouseStatus": "Working",
+      "warehouseStatusDate": "2022-04-29T00:00:00",
+      "categoryOfWarehouse": "Branch",
+      "direct": "",
+      "regionCity": "КИЇВ ЗАХІД ПОСИЛКОВИЙ",
+      "warehouseForAgent": false,
+      "maxDeclaredCost": 0,
+      "workInMobileAwis": false,
+      "denyToSelect": false,
+      "canGetMoneyTransfer": true,
+      "postMachineType": "",
+      "postalCodeUA": "",
+      "onlyReceivingParcel": false,
+      "warehouseIndex": "11/25",
+      "ref": "16922859-e1c2-11e3-8c4a-0050568002cf",
+      "description": "Відділення \u211625 (до 30 кг): вул. М. Тимошенка, 9"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "info": {
+    "totalCount": 1
+  }
+}

@@ -1,0 +1,96 @@
+{
+	"success": true,
+	"data": [
+		{
+			"SiteKey": "298",
+			"Description": "Відділення №25 (до 30 кг): вул. М. Тимошенка, 9",
+			"DescriptionRu": "Отделение №25 (до 30 кг): ул. М. Тимошенко, 9",
+			"ShortAddress": "Київ, М. Тимошенка, 9",
+			"ShortAddressRu": "Киев, М. Тимошенко, 9",
+			"Phone": "380800500609",
+			"TypeOfWarehouse": "841339c7-591a-42e2-8233-7a0a00f0ed6f",
+			"Ref": "16922859-e1c2-11e3-8c4a-0050568002cf",
+			"Number": "25",
+			"CityRef": "8d5a980d-391c-11dd-90d9-001a92567626",
+			"CityDescription": "Київ",
+			"CityDescriptionRu": "Киев",
+			"SettlementRef": "e718a680-4b33-11e4-ab6d-005056801329",
+			"SettlementDescription": "Київ",
+			"SettlementAreaDescription": "Київська",
+			"SettlementRegionsDescription": "",
+			"SettlementTypeDescription": "місто",
+			"SettlementTypeDescriptionRu": "город",
+			"Longitude": "30.490456000000000",
+			"Latitude": "50.509762000000000",
+			"PostFinance": "1",
+			"BicycleParking": "0",
+			"PaymentAccess": "1",
+			"POSTerminal": "1",
+			"InternationalShipping": "1",
+			"SelfServiceWorkplacesCount": "1",
+			"TotalMaxWeightAllowed": "30",
+			"PlaceMaxWeightAllowed": "0",
+			"SendingLimitationsOnDimensions": {
+				"Width": 120,
+				"Height": 120,
+				"Length": 120
+			},
+			"ReceivingLimitationsOnDimensions": {
+				"Width": 120,
+				"Height": 120,
+				"Length": 120
+			},
+			"Reception": {
+				"Monday": "08:00-21:00",
+				"Tuesday": "08:00-21:00",
+				"Wednesday": "08:00-21:00",
+				"Thursday": "08:00-21:00",
+				"Friday": "08:00-21:00",
+				"Saturday": "09:00-18:00",
+				"Sunday": "09:00-18:00"
+			},
+			"Delivery": {
+				"Monday": "08:00-21:00",
+				"Tuesday": "08:00-21:00",
+				"Wednesday": "08:00-21:00",
+				"Thursday": "08:00-21:00",
+				"Friday": "08:00-21:00",
+				"Saturday": "09:00-18:00",
+				"Sunday": "09:00-18:00"
+			},
+			"Schedule": {
+				"Monday": "08:00-21:00",
+				"Tuesday": "08:00-21:00",
+				"Wednesday": "08:00-21:00",
+				"Thursday": "08:00-21:00",
+				"Friday": "08:00-21:00",
+				"Saturday": "09:00-18:00",
+				"Sunday": "09:00-18:00"
+			},
+			"DistrictCode": "Д2/п25",
+			"WarehouseStatus": "Working",
+			"WarehouseStatusDate": "2022-04-29 00:00:00",
+			"CategoryOfWarehouse": "Branch",
+			"Direct": "",
+			"RegionCity": "КИЇВ ЗАХІД ПОСИЛКОВИЙ",
+			"WarehouseForAgent": "0",
+			"MaxDeclaredCost": "0",
+			"WorkInMobileAwis": "0",
+			"DenyToSelect": "0",
+			"CanGetMoneyTransfer": "1",
+			"OnlyReceivingParcel": "0",
+			"PostMachineType": "",
+			"PostalCodeUA": "",
+			"WarehouseIndex": "11/25"
+		}
+	],
+	"errors": [],
+	"warnings": [],
+	"info": {
+		"totalCount": 1
+	},
+	"messageCodes": [],
+	"errorCodes": [],
+	"warningCodes": [],
+	"infoCodes": []
+}

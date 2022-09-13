@@ -1,0 +1,3014 @@
+{
+	"success": true,
+	"data": [
+		{
+			"Description": "1-а Вишнева",
+			"Ref": "ef905acd-e1f4-11e5-899e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "1-а Дамбова",
+			"Ref": "0c2b2d0a-650a-11e6-a9f2-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "1-а Лінія",
+			"Ref": "cd335133-f2ff-11dd-a18e-001d92f78697",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "1-а Лінія (Берковець)",
+			"Ref": "1bcb8bf2-c82d-11e6-8886-005056887b8d",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "1-а Поперечна (Оболонь-2)",
+			"Ref": "b7267743-9f42-11e6-b5da-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "1-а Продольна ",
+			"Ref": "059cf88b-e125-11e5-899e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "1-а Садова (Осокорки)",
+			"Ref": "5487e33e-9dc0-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "1-го Травня",
+			"Ref": "a71182c5-e4f0-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "1-й Крилова",
+			"Ref": "d04edbf8-8979-11e7-ab8b-005056b2fc3d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "1-й Лісо-Степовий",
+			"Ref": "98ed9861-67c1-11e8-aa3a-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "1-й Польовий ",
+			"Ref": "563c5d82-0240-11e6-899e-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "1-й Східно-Дальній ",
+			"Ref": "9a4c0a61-f999-11ea-80fb-b8830365bd04",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "1-й Франка Івана",
+			"Ref": "563c5dd9-0240-11e6-899e-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "10-а Абрикосова",
+			"Ref": "e61a01d6-c067-11e6-8b12-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "10-а Лінія (Берковець)",
+			"Ref": "a059edb5-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "10-а Садова",
+			"Ref": "d31cd006-d155-11e5-8478-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "10-й Північно-Озерний",
+			"Ref": "13eca148-ef6c-11e6-95d1-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "11-а Лінія (Берковець)",
+			"Ref": "a059edb7-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "11-а Садова (Русанівські сади)",
+			"Ref": "2ecdaf4f-da1a-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "11-й Північно-Озерний ",
+			"Ref": "b5b00b45-bbc9-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "11-та Абрикосова",
+			"Ref": "19a50f37-bc8e-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "110-а Садова",
+			"Ref": "8418ccbc-d1a0-11e6-938d-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "12-а Абрикосова",
+			"Ref": "6f0a9b08-76f5-11e5-b6f7-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "12-а Лінія (Берковець)",
+			"Ref": "a059edb8-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "121-а Садова",
+			"Ref": "0bf62198-8557-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "13-а лінія (Берковець)",
+			"Ref": "1bcb8be0-c82d-11e6-8886-005056887b8d",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "14-а (Пуща-Водиця) ",
+			"Ref": "da44448f-7653-11e6-a9f2-005056887b8d",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "14-а Лінія (Берковець)",
+			"Ref": "a059edba-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "15-а лінія (Берковець)",
+			"Ref": "1bcb8be9-c82d-11e6-8886-005056887b8d",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "159-а Садова",
+			"Ref": "6bb315de-e28a-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "162-а Садова",
+			"Ref": "17d31342-47a3-11e8-aa3a-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "19-а Садова",
+			"Ref": "dd63e6d3-d181-11e5-8478-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "19-а Садова (Русанівські Сади)",
+			"Ref": "9c8cd1cd-229e-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "2-а Абрикосова",
+			"Ref": "e07829d1-0e06-11e6-971e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "2-А Лінія (Берковець)",
+			"Ref": "a059edbb-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "2-а Продольна",
+			"Ref": "352c739c-81a2-11e7-ab8b-005056b2fc3d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "2-й Лісо-Степовий",
+			"Ref": "a522aa2d-5302-11e5-8d8d-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "2-й Маршака",
+			"Ref": "d615e9a0-e277-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "2-й Північно-Озерний",
+			"Ref": "97ca318d-b81e-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "2-й Східно-Дальній",
+			"Ref": "5c474e20-8da9-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "2-й Франка Івана",
+			"Ref": "60bc5545-7fc3-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "200-а Садова",
+			"Ref": "1f748a3a-b2b2-11e5-8478-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "206-а Садова",
+			"Ref": "9c52bae8-0aed-11e7-95d1-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "209-а Садова",
+			"Ref": "fe3c5e72-9383-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "29-а Садова",
+			"Ref": "c5d8f45d-d109-11e7-b9e3-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "3 Садовий",
+			"Ref": "16589e7a-68ad-11e8-aa3a-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "3-а Лінія (Берковець)",
+			"Ref": "c918a520-5023-11de-9bd4-0021918b679a",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "3-й Лісо-Степовий",
+			"Ref": "64070ff0-8ee5-11e6-856b-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "3-й Маршака",
+			"Ref": "d615e9a3-e277-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "3-й Північно-Озерний",
+			"Ref": "721cfe0e-2bac-11e6-9e93-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "3-й Східно-Дальній",
+			"Ref": "ea0b7457-6cc3-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "3-й Тупиковий",
+			"Ref": "26810777-af84-11e8-aa3a-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "32-а Садова (Русанівські сади)",
+			"Ref": "05e2dc2e-7339-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "4-а Лінія (Берковець)",
+			"Ref": "a059edbf-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "4-й Лісо-степовий",
+			"Ref": "3cd2772c-3011-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "4-й Північно-Озерний",
+			"Ref": "5af6142f-2e09-11e6-9e93-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "4-й Східно-Дальній",
+			"Ref": "722d208c-6ea7-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "4-й Франка Івана",
+			"Ref": "563c5df9-0240-11e6-899e-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "40 р. Жовтня",
+			"Ref": "730d0757-f0b8-11de-8840-000c294065a1",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "5-А Лінія (Берковець)",
+			"Ref": "a059edc1-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "5-а лінія (Фронтовик)",
+			"Ref": "4991b5f3-fa17-11ec-a361-48df37b92096",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "5-й Лісо-степовий",
+			"Ref": "91c53f12-a7c8-11e5-a023-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "5-й Північно-Озерний",
+			"Ref": "3ceaa399-d374-11e8-aa3a-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "5-й Східно-Дальній",
+			"Ref": "027c4841-7ef5-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "50 р. Жовтня ",
+			"Ref": "15b86e25-f01e-11de-8bd9-000c2965ae0e",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "53-я Садова А",
+			"Ref": "ffe86ff2-8081-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "6-А Лінія (Берковець)",
+			"Ref": "a059edc4-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "6-а Садова (Русановські сади)",
+			"Ref": "247e82ce-111c-11ea-8c15-0025b502a06e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "6-й Маяковського",
+			"Ref": "e50a57cb-d331-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "6-й Північно-Озерний",
+			"Ref": "57a361b1-64ee-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "6-й Східно-Дальний",
+			"Ref": "3e8b27c0-7c35-11e6-a9f2-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "60-а Садова",
+			"Ref": "c9920a32-8482-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "61-а Садова ",
+			"Ref": "c116c002-e28b-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "7-а Абрикосова",
+			"Ref": "44a6d141-9689-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "7-А Лінія",
+			"Ref": "4428a6ef-590a-11e8-aa3a-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "7-А Лінія (Берковець)",
+			"Ref": "92457212-f966-11dd-ac7f-001d92f78697",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "7-а Лінія (Пуща Водиця)",
+			"Ref": "5bf65ba8-aa97-11e7-ba66-005056b2fc3d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "8-а Абрикосова",
+			"Ref": "4f9722eb-111b-11ea-8c15-0025b502a06e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "8-а Ентузіастів",
+			"Ref": "459b8a27-7b3e-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "8-А Лінія (Берковець)",
+			"Ref": "a059edc7-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "8-а лінія (Оболонь)",
+			"Ref": "9dcf8a03-0206-11e9-a8ec-0025b502b06e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "8-го Березня",
+			"Ref": "592ca2fa-5970-11e1-a283-0026b97ed48a",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "8-й Північно-Озерний",
+			"Ref": "1cc43207-f394-11ec-a361-48df37b92096",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "84 -А Садова",
+			"Ref": "fe486cbe-7678-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "9 Травня",
+			"Ref": "dfccda97-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "9-а (Оболонь)",
+			"Ref": "beef7bdc-99cc-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "9-а Абрикосова ",
+			"Ref": "7f196bc3-df81-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "9-А Лінія (Берковець)",
+			"Ref": "a059edc9-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Line",
+			"StreetsType": "лінія"
+		},
+		{
+			"Description": "9-а Садова (Русанівські сади)",
+			"Ref": "eaa22695-4813-11ea-b89e-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "9-й Північно-Озерний",
+			"Ref": "91fff685-099e-11ed-a361-48df37b92096",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "98-а Садова",
+			"Ref": "409ce60b-9697-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Аболмасова Андрія",
+			"Ref": "74555ec2-27c4-11ea-b89e-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Абрикосова (Берковець)",
+			"Ref": "a67aafb3-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Авдєєнка Генерала",
+			"Ref": "dfccda92-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Авіаконструктора Антонова ",
+			"Ref": "1a06a140-8313-11de-bfb5-001ec9d9f7b7",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Авіаконструктора Сікорського Ігоря  (Танкова)",
+			"Ref": "5f127df2-40e2-11e1-999e-0026b97ed48a",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Авіаційна ",
+			"Ref": "570e0a9b-75a7-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Автогенний ",
+			"Ref": "6bad27b1-e2a1-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Автозаводська",
+			"Ref": "bba0d9ea-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Автозаводський",
+			"Ref": "99b852c4-4152-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Автопаркова",
+			"Ref": "cfe5560a-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Авторемонтна",
+			"Ref": "d7ea48d2-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Автотранспортна (Бортничі)",
+			"Ref": "421f6f70-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Агітаторська",
+			"Ref": "dfccda4d-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Агрегатна",
+			"Ref": "a67aafaf-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Адлерська",
+			"Ref": "71340a6f-7ef9-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Аеродромна",
+			"Ref": "421f6f64-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Азербайджанська",
+			"Ref": "7ab2bb9a-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Азовська",
+			"Ref": "dfccda36-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Аїстова",
+			"Ref": "7f1ec6cf-795f-11dd-9307-001d92f78698",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Айвазовського",
+			"Ref": "c991592e-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Академіка Вільямса",
+			"Ref": "05b38ae3-525f-11e7-b929-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Академіка Єфремова (Уборевича Командарма)",
+			"Ref": "95f12565-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Академіка Сєркова",
+			"Ref": "1e083450-084f-11e6-971e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Алексухіна Василя",
+			"Ref": "51211715-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Алішера Навої",
+			"Ref": "ae505a90-4153-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Алма-Атинська",
+			"Ref": "8a075c1a-e084-11ea-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Алматинська",
+			"Ref": "71415e26-717a-11de-99e5-002219c743f6",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Аляб'єва",
+			"Ref": "bba0d9e6-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Амосова Миколи",
+			"Ref": "ce05b4c7-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Амурська",
+			"Ref": "d660e38b-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Амурська",
+			"Ref": "f18c8440-954f-11dd-b80e-001d92f78697",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Ананасна (Берковець)",
+			"Ref": "a67aafae-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Анатоліївська",
+			"Ref": "eb9b2612-99c6-11e6-a4c1-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Анатолія Слов'яненко",
+			"Ref": "2f4af037-a35b-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Анатолія Солов'яненка",
+			"Ref": "7ab2bb87-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Андріївська",
+			"Ref": "7a2f3a3e-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Андріївський",
+			"Ref": "2c833af8-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lifting",
+			"StreetsType": "узвіз"
+		},
+		{
+			"Description": "Андрія Сови",
+			"Ref": "dd95b0ff-43a6-11ec-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Андрющенка Григорія",
+			"Ref": "8add59d0-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Анищенка",
+			"Ref": "b6837195-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Анкари",
+			"Ref": "85e7e76f-b7bb-11dd-9260-001d92f78697",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Анни Ярославни (Фадєєва)",
+			"Ref": "0ef20922-572f-11dd-b4f8-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Антона Цедіка",
+			"Ref": "f5ba9691-c9fa-11e7-b9e3-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Антоненка-Давидовича",
+			"Ref": "9c5879ac-2509-11ed-a361-48df37b92096",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Антоновича (Горького)",
+			"Ref": "48f392f4-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Апельсинова (Жуляни)",
+			"Ref": "e18e8f8a-6de0-11e6-a9f2-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Ареф'єва Костянтина",
+			"Ref": "b580e85b-414f-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Армійська",
+			"Ref": "86168254-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Арсенальна",
+			"Ref": "7abd7b58-414e-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Арсенальна",
+			"Ref": "e0c2c933-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Арсенальний",
+			"Ref": "cb1f39c2-4150-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Артезіанський",
+			"Ref": "c991593a-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Артема",
+			"Ref": "48f3930f-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Артилерійський",
+			"Ref": "f1a41248-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Архипенка Олександра (Мате Залки)",
+			"Ref": "4046486a-effd-11de-8bd9-000c2965ae0e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Архітектора Кобелєва (Фурманова)",
+			"Ref": "724642fa-4152-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Архітектора Ніколаєва ",
+			"Ref": "ffe579f6-6e5b-11e4-acce-0050568002cf",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Архітекторська",
+			"Ref": "dfccda3b-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Аскольдів",
+			"Ref": "c9915926-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Астраханська",
+			"Ref": "b66fa494-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Астраханський",
+			"Ref": "dfccdaf9-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Астрономічна",
+			"Ref": "dfccda9c-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Ахматової Анни",
+			"Ref": "c55c902b-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Ахтирський",
+			"Ref": "edf58073-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бабушкіна",
+			"Ref": "38f6d4ac-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Багговутівська",
+			"Ref": "61a4a850-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Багряна Діброва",
+			"Ref": "50ffec04-06c0-11e6-971e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бажана Миколи",
+			"Ref": "82216ab2-c2d1-11de-8a4b-000c291af1b3",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Бажова",
+			"Ref": "2c833b01-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Байкальська",
+			"Ref": "d7ea48ef-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Байкова",
+			"Ref": "7c84fd87-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бакинська",
+			"Ref": "29711987-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бакинський",
+			"Ref": "d7ea48b1-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бакинських Комісарів",
+			"Ref": "dfccdb03-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Баклажанна (Берковець)",
+			"Ref": "a67aafab-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бакуніна",
+			"Ref": "d7ea48c1-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Балакірева",
+			"Ref": "8add59cc-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Балакірева",
+			"Ref": "fb6fb178-80c9-11dd-96a9-001d92f78698",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Балакліївська",
+			"Ref": "d7ea4926-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Балтійський",
+			"Ref": "ddf36b16-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бандери Степана (Московський)",
+			"Ref": "bba0d9c3-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Банкова",
+			"Ref": "2c833b27-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Барбюса Анрі",
+			"Ref": "122cd4bb-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Баренбойма",
+			"Ref": "e26f48cf-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Барикадна",
+			"Ref": "b3dd6bca-8e6c-11dd-be64-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Барки Василя( Горовиця Олександра)",
+			"Ref": "d7ea4908-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Басейна",
+			"Ref": "3b13ab89-4142-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бастіонна",
+			"Ref": "9cfdc8fd-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бастіонний",
+			"Ref": "46310fbe-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Батумська",
+			"Ref": "dfccda7a-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Батуринська",
+			"Ref": "a67aafa9-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Батуринський",
+			"Ref": "a67aafa8-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Баумана",
+			"Ref": "d7ea4927-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бауманська",
+			"Ref": "17209daf-4145-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Баха Академіка",
+			"Ref": "645258b9-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бахмацька",
+			"Ref": "d1b022d2-414e-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бджолиний",
+			"Ref": "c3cba6bb-48ff-11e6-a9f2-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Безручка Марка (Бабушкіна)",
+			"Ref": "ce05b4c2-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бердичівська",
+			"Ref": "d8364179-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бердичівський",
+			"Ref": "645258ba-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бердянська",
+			"Ref": "3180d2a4-4150-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бердянський",
+			"Ref": "d7ea48b2-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Берегова",
+			"Ref": "645258bb-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бережанська",
+			"Ref": "054d920b-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Березнева (Бортничі)",
+			"Ref": "dfccdad7-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Березнева (Дніпровський р-н)",
+			"Ref": "67e9efc0-02d8-11e6-899e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Березневий (Бортничі)",
+			"Ref": "dfccdad8-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Березневий 3-й (Бортничі)",
+			"Ref": "212bdf0a-a715-11e6-b5da-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Березняки ринок",
+			"Ref": "bc752add-17ae-11df-9fe1-000c2965ae0e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Березняківська",
+			"Ref": "59ca98a2-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Березова (Подольський р-н)",
+			"Ref": "595f31d7-e57c-11e7-b9e3-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Березова (Солом'янський р-н)",
+			"Ref": "4ba02f12-8b1f-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Береста Олексія(Криленка)",
+			"Ref": "dfccda16-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Берестецька",
+			"Ref": "dfccda27-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Беретті Вікентія",
+			"Ref": "b109666e-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Берковецька",
+			"Ref": "f1a41216-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Берлинського Максима",
+			"Ref": "36ad5a3e-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бессарабська",
+			"Ref": "29711953-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Бестужева Олександра",
+			"Ref": "93f1c71f-7baa-11dd-9307-001d92f78698",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бестужева Олександра",
+			"Ref": "d7ea48bb-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бетховена",
+			"Ref": "dfccda98-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бехтеревський",
+			"Ref": "c55c9077-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Беца Володимира",
+			"Ref": "fb98ac05-7160-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бєлінського Чеслава",
+			"Ref": "bf0b9163-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Биківнянська",
+			"Ref": "5229396d-9b81-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Биківнянський",
+			"Ref": "dfccdb01-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Биківський",
+			"Ref": "dfccda25-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бикова Леоніда",
+			"Ref": "701aeda9-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Boulevard",
+			"StreetsType": "бульвар"
+		},
+		{
+			"Description": "Бишівська",
+			"Ref": "e6710b00-9eca-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бишівський",
+			"Ref": "e6f5bfec-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бігова",
+			"Ref": "a67aafac-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білгородська",
+			"Ref": "c55c9093-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білецького Академіка",
+			"Ref": "71e575e1-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білика Івана (Жуляни)",
+			"Ref": "767cd680-ba17-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білицька",
+			"Ref": "fe575321-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білицький",
+			"Ref": "dfccdb23-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Біличанська",
+			"Ref": "394aa5cf-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білогородська",
+			"Ref": "687695a0-e1d2-11e5-899e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білокур Катерини",
+			"Ref": "71e575f3-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Біломорська",
+			"Ref": "d1451012-4152-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Білоруська",
+			"Ref": "6faceeb8-c0af-11df-ac5b-000c291598e1",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Біляшівського Академіка",
+			"Ref": "23f350c3-4b91-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бірюзова Маршала",
+			"Ref": "dfccda95-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Блакитного",
+			"Ref": "20ad5d55-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Ближньопечерна",
+			"Ref": "27c06b2e-e430-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Блока Олександра",
+			"Ref": "7c84fd8a-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бобринецька",
+			"Ref": "aca7a452-414e-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бобринецький",
+			"Ref": "dfccdafc-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бобриця",
+			"Ref": "cf9f42bd-e66b-11de-bccd-000c294065a1",
+			"StreetsTypeRef": "Village",
+			"StreetsType": "с."
+		},
+		{
+			"Description": "Бобруйський",
+			"Ref": "3d8cfcf9-f495-11de-9d0b-000c291af1b3",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Богатирська",
+			"Ref": "122cd4b3-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Богатирський",
+			"Ref": "71b5c520-c750-11e6-8886-005056887b8d",
+			"StreetsTypeRef": "Passage",
+			"StreetsType": "проїзд"
+		},
+		{
+			"Description": "Богданівська",
+			"Ref": "7a2f3a2a-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Богданівський",
+			"Ref": "645258be-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Боголюбова",
+			"Ref": "2eecb8aa-c041-11e1-bdef-0026b97ed48a",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Богомольця Академіка",
+			"Ref": "bf0b9161-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Богуна Івана",
+			"Ref": "da69cbc2-e490-11e6-95d1-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Богунська",
+			"Ref": "61a4a855-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Богунський",
+			"Ref": "c9915922-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Богуславський",
+			"Ref": "c991592c-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lifting",
+			"StreetsType": "узвіз"
+		},
+		{
+			"Description": "Богушевський ",
+			"Ref": "6bad27b4-e2a1-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Боженка ",
+			"Ref": "bba0d9fc-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Божків Яр",
+			"Ref": "d7ea4906-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бойка Івана",
+			"Ref": "dfccda63-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бойова",
+			"Ref": "d7ea48f2-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бойчука Михайла (Кіквідзе)",
+			"Ref": "e76c089b-4142-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Болбочана Петра (Каменєва Командарма)",
+			"Ref": "59ca98a0-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Болгарська",
+			"Ref": "8e78fb92-4818-11e2-889f-001631fa0467",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Болсуновська",
+			"Ref": "fed385ea-a975-11e5-a023-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бондарська",
+			"Ref": "8e52b1ba-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бондарський",
+			"Ref": "61a4a845-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бориславська",
+			"Ref": "8e52b1c4-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Борисоглібська",
+			"Ref": "fcf784e3-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бориспільська",
+			"Ref": "9fc77354-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бориспільське",
+			"Ref": "eaf40fc4-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Highway",
+			"StreetsType": "шосе"
+		},
+		{
+			"Description": "Бориспільський",
+			"Ref": "2f4661a4-01ee-11df-b476-000c291af1b3",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Боричів",
+			"Ref": "e26f48a2-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lifting",
+			"StreetsType": "узвіз"
+		},
+		{
+			"Description": "Боричів Тік",
+			"Ref": "f32ac0a1-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Борова (Бортничі)",
+			"Ref": "dfccdade-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Борова (Дібровна Дарницький район)",
+			"Ref": "5728e5b6-ab15-11e2-a57a-d4ae527baec3",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Боровий (Бортничі)",
+			"Ref": "e6f5bfcb-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Боровий (Червоний Хутір)",
+			"Ref": "dfccdaa7-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Боровиковського",
+			"Ref": "d7ea48b8-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Боровинська (Берковець)",
+			"Ref": "1bcb8c0b-c82d-11e6-8886-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Боровиченко Марії",
+			"Ref": "f2cb446b-93b1-11dd-b80e-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бородянський",
+			"Ref": "ddf36b27-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бортницька",
+			"Ref": "dfccdaaa-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бортницький",
+			"Ref": "dfccdaa9-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бортницький 1-Й (Бортничі)",
+			"Ref": "5c849b58-f495-11de-9d0b-000c291af1b3",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бортницький 2-Й (Бортничі)",
+			"Ref": "eccaeca9-b740-11dd-8ab8-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Борщагівська",
+			"Ref": "56a1462c-4152-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Ботанічна",
+			"Ref": "6da8b51a-b9a9-11dd-be34-001d92f78697",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Боткіна",
+			"Ref": "0bc6bd03-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Брановицького Ігоря (Перспективна)",
+			"Ref": "99866b9f-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Братиславська",
+			"Ref": "be349b87-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Братів Зерових (Червонопартизанська)",
+			"Ref": "38aaad22-4154-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Братська",
+			"Ref": "f1a4127c-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Брест-Литовське",
+			"Ref": "4d102e76-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Highway",
+			"StreetsType": "шосе"
+		},
+		{
+			"Description": "Брест-Литовський",
+			"Ref": "d7ea48ad-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Брестська",
+			"Ref": "d7ea48ba-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Броварське",
+			"Ref": "efd951b5-08e7-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Highway",
+			"StreetsType": "шосе"
+		},
+		{
+			"Description": "Броварський",
+			"Ref": "bf0b916c-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Броварський",
+			"Ref": "f1a4125a-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Бродівська",
+			"Ref": "a67aafa3-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бродівський",
+			"Ref": "a67aafa4-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Брожка Володимира",
+			"Ref": "47934c2f-70d6-11e8-9d95-005056b2fc3d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Брусилівська",
+			"Ref": "8c1558c3-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Брюллова",
+			"Ref": "5ba8cf5d-4151-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Брюсова",
+			"Ref": "d7ea48b9-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Брянська",
+			"Ref": "d7ea4909-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бугорна",
+			"Ref": "ec2c45e1-580e-11dd-8642-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бугорний",
+			"Ref": "a67aafa6-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бударіна",
+			"Ref": "b70d0578-bead-11e0-9503-b808a0f711c0",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Будищанська",
+			"Ref": "c1f4c6e5-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Будівельників",
+			"Ref": "84d75c3f-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Будівельників (Дарницький р-н)",
+			"Ref": "d2befb2a-9d70-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Будівельників (Деснянський р-н)",
+			"Ref": "55476b38-4150-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Будівельників (Дніпровський р-н)",
+			"Ref": "bba0d9b3-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Будівельників (Святошинський р-н)",
+			"Ref": "27117587-c360-11e6-8b12-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Будіндустрії",
+			"Ref": "054d9204-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Будьонного (Бортничі)",
+			"Ref": "dfccdac6-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Будьонного 1-й (Бортничі)",
+			"Ref": "dfccdac8-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Буйка Професора",
+			"Ref": "dfccda68-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Букіної Раїси",
+			"Ref": "dfccda0b-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Букіної Раїси",
+			"Ref": "dfccda0c-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Буковинська",
+			"Ref": "dfccdb12-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Буковинський",
+			"Ref": "86e9c800-fb29-11e5-899e-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Булаховського Академіка",
+			"Ref": "eaf40f98-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Булгакова",
+			"Ref": "36ad5a49-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бульварно-Кудрявська",
+			"Ref": "de9cc97d-dcf6-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бурденка Академіка",
+			"Ref": "79498bcf-f495-11de-9d0b-000c291af1b3",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бурмистенка",
+			"Ref": "e2646bbf-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бурмистенка",
+			"Ref": "e6f5bfde-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Буслівська",
+			"Ref": "d7ea48e0-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бутишев",
+			"Ref": "3a0f2828-d78e-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Бутлерова Академіка",
+			"Ref": "eaf40fbc-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Буча",
+			"Ref": "fef4f573-decf-11e5-899e-005056887b8d",
+			"StreetsTypeRef": "Village",
+			"StreetsType": "с."
+		},
+		{
+			"Description": "Бучанська",
+			"Ref": "dfccda07-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Бучанське",
+			"Ref": "84d75c49-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Highway",
+			"StreetsType": "шосе"
+		},
+		{
+			"Description": "Бучми Амвросія",
+			"Ref": "c0ec2983-414e-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вавилових",
+			"Ref": "a67bddb6-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вакуленчука",
+			"Ref": "dfccdaab-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вакуленчука",
+			"Ref": "dfccdaac-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Валківська",
+			"Ref": "5357daee-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Василевської Ванди",
+			"Ref": "0bc6bcf1-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Василенка Миколи",
+			"Ref": "441dfb1b-b8be-11de-992c-000c294065a1",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Василівська",
+			"Ref": "b109664d-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Васильківська",
+			"Ref": "ddf36b29-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Васильківський",
+			"Ref": "6f6a5b0d-4154-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Васильченка Степана ",
+			"Ref": "fed0c162-414f-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Васнєцова",
+			"Ref": "dfccdb05-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Ватутіна (Жуляни)",
+			"Ref": "a67aafbb-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Ватутіна(Жуляни)",
+			"Ref": "122ccd2f-3b8d-11e5-add9-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вацлава Гавели (Лепсе Івана)",
+			"Ref": "bba0d9b8-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Boulevard",
+			"StreetsType": "бульвар"
+		},
+		{
+			"Description": "Ващенка Григорія ",
+			"Ref": "19d43b63-823d-11e1-8aad-0026b97ed48a",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Введенська",
+			"Ref": "7ab2bb8a-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Велика Васильківська (Червоноармійська)",
+			"Ref": "01b3668f-ed8d-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Велика Житомирська",
+			"Ref": "20ad5d7a-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Велика Китаївська",
+			"Ref": "3007e9ad-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Велика Кільцева",
+			"Ref": "c1aee995-8458-11df-ab40-000c29f9e806",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Велика Кільцева",
+			"Ref": "ddf36b23-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Road",
+			"StreetsType": "дорога"
+		},
+		{
+			"Description": "Велика Окружна",
+			"Ref": "b1096662-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Венеціанський острів",
+			"Ref": "1f0222a3-2854-11e0-9b59-0024e83b596e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вербицького Архітектора",
+			"Ref": "4a579358-413e-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вербова",
+			"Ref": "f2e49279-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верболозна",
+			"Ref": "c9915937-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верболозний",
+			"Ref": "c9915938-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Вересая Остапа",
+			"Ref": "114d934d-e273-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вересковий (Жданова)",
+			"Ref": "80538726-0a40-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Вереснева",
+			"Ref": "d83641a7-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верещагіна",
+			"Ref": "dfccda26-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вернадського Академіка",
+			"Ref": "e45be526-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Boulevard",
+			"StreetsType": "бульвар"
+		},
+		{
+			"Description": "Верхній",
+			"Ref": "c9915911-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Верхній Вал",
+			"Ref": "d660e3a1-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верхньогірська",
+			"Ref": "d7ea48e9-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верхньоключова",
+			"Ref": "d7ea48be-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верхня",
+			"Ref": "3dc754cd-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верховинна",
+			"Ref": "bf0b9142-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верховинця Василя",
+			"Ref": "bf0b9144-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Верховної Ради",
+			"Ref": "eb31b15a-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Boulevard",
+			"StreetsType": "бульвар"
+		},
+		{
+			"Description": "Вершигори Петра",
+			"Ref": "ae23dad8-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Веселковий",
+			"Ref": "dbb352d2-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Весняна",
+			"Ref": "dfccdb13-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вечірня",
+			"Ref": "ef3593a9-4dd2-11e2-889f-001631fa0467",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вешенський",
+			"Ref": "dfccdb00-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Вєтрова Бориса",
+			"Ref": "a7652d15-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Виборзький",
+			"Ref": "0220bec4-ddd7-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Виговського Івана",
+			"Ref": "de4b5696-4819-11ea-b89e-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вигурівський",
+			"Ref": "dfccdb37-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Boulevard",
+			"StreetsType": "бульвар"
+		},
+		{
+			"Description": "Видубицька",
+			"Ref": "b62551ee-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Визволителів",
+			"Ref": "9fc7734c-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Винахідників",
+			"Ref": "dfccdae2-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Винахідників",
+			"Ref": "dfccdaea-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Винниченка Володимира (Коцюбинського Юрія)",
+			"Ref": "2472b0c6-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Виноградна",
+			"Ref": "9cadd194-2463-11e4-acce-0050568002cf",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Виноградна (Осокорки)",
+			"Ref": "1683f994-8f9e-11ea-a970-b8830365ade4",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Виноградний",
+			"Ref": "1d306182-4150-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Високовольтний",
+			"Ref": "0220bec7-ddd7-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Висоцького Володимира",
+			"Ref": "502d8453-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Boulevard",
+			"StreetsType": "бульвар"
+		},
+		{
+			"Description": "Вифлиємська (Шліхтера Академіка)",
+			"Ref": "82a830fd-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вишгородська",
+			"Ref": "bba0d998-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вишиваного (Дундича Олеко)",
+			"Ref": "dfccdae8-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вишнева (Бортничі)",
+			"Ref": "1e9842a3-414d-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вишневий",
+			"Ref": "1aea7286-0a3e-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Вишняківська",
+			"Ref": "dbb352ee-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Віденська",
+			"Ref": "21aec9b7-194f-11e2-af92-d4ae52ab9fab",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Відпочинку",
+			"Ref": "a30ee6a0-96fb-11dd-8269-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Відрадний",
+			"Ref": "cfe55633-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Військова",
+			"Ref": "dfccdb11-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Військове містечко",
+			"Ref": "3be71f27-555f-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Військовий",
+			"Ref": "b119bc62-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Passage",
+			"StreetsType": "проїзд"
+		},
+		{
+			"Description": "Вільде Едуарда",
+			"Ref": "b119bc5d-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вільнюська",
+			"Ref": "d54b1466-4151-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вільхова",
+			"Ref": "dfccdae7-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вільшанська",
+			"Ref": "d7ea48d6-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вільшанський",
+			"Ref": "d7ea48d7-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Вільямса Академіка",
+			"Ref": "fe575324-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вінницька",
+			"Ref": "2472b0bc-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вірменська",
+			"Ref": "72464312-4152-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вірменський",
+			"Ref": "dfccdaae-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Вірності ",
+			"Ref": "e3aa482e-76cd-11e4-acce-0050568002cf",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Віскозна",
+			"Ref": "d660e3b7-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вітавська",
+			"Ref": "a67aafb7-0a3b-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Віто-Литовський",
+			"Ref": "6d2950f1-eb8b-11e5-899e-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Вітрука Генерала",
+			"Ref": "0698a425-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вітряні Гори",
+			"Ref": "fcf784df-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вітчизняна",
+			"Ref": "dfccdb26-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вітянська",
+			"Ref": "f6039500-4151-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вовчка",
+			"Ref": "98555f82-c3e7-11de-8a4b-000c291af1b3",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Водників",
+			"Ref": "1aea7287-0a3e-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Водників",
+			"Ref": "bf0b9141-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Водогінна",
+			"Ref": "dfccda66-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Воздвиженська",
+			"Ref": "373e7075-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вознесенський",
+			"Ref": "ea79290e-414f-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lifting",
+			"StreetsType": "узвіз"
+		},
+		{
+			"Description": "Вокзальна",
+			"Ref": "9cfdc906-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Вокзальна",
+			"Ref": "fc26dfae-4141-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волго-Донська",
+			"Ref": "fc33a252-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волго-Донський",
+			"Ref": "59ca989d-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Волгоградська",
+			"Ref": "038cbc19-4b91-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Волгоградська",
+			"Ref": "e2646bdc-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волзька",
+			"Ref": "afc7c134-4882-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волзький",
+			"Ref": "c9915923-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Волинська",
+			"Ref": "c55c902e-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волкова Космонавта",
+			"Ref": "394aa5e2-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Володимира Сікевича",
+			"Ref": "bba0d9ee-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Володимиро-Либідська",
+			"Ref": "51211708-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Володимирська",
+			"Ref": "bba0d9a9-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Володимирський",
+			"Ref": "c9915907-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Passage",
+			"StreetsType": "проїзд"
+		},
+		{
+			"Description": "Володимирський",
+			"Ref": "ffce6bca-7afa-11dd-9307-001d92f78698",
+			"StreetsTypeRef": "Lifting",
+			"StreetsType": "узвіз"
+		},
+		{
+			"Description": "Волоська",
+			"Ref": "9fc77362-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волошина Августина",
+			"Ref": "c22d7128-d34b-11e7-b9e3-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волошкова",
+			"Ref": "b0791a76-ddcd-11e0-b707-80613c6700db",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волховська",
+			"Ref": "2c833aec-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Волховський",
+			"Ref": "dfccdae0-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Воскресенська",
+			"Ref": "e2646bfd-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Врубелівський",
+			"Ref": "c9915935-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Lifting",
+			"StreetsType": "узвіз"
+		},
+		{
+			"Description": "Вузівська",
+			"Ref": "6a043f1e-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "вул. Садова 162-а (Осокорки)",
+			"Ref": "050d664b-2b2f-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "вул. Садова 7-а, Осокорки",
+			"Ref": "4d2eba71-33d2-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вуликова ",
+			"Ref": "77743cda-3dfe-11e6-a9f2-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вчительська",
+			"Ref": "dfccda57-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Вчительський ",
+			"Ref": "114d935b-e273-11e4-8a92-005056887b8d",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Гаванський",
+			"Ref": "abdf8531-4151-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Гаврилишина Богдана",
+			"Ref": "98e8753c-7f88-11e8-aa3a-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гаврилюка Олександра",
+			"Ref": "dfccda3a-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гагаріна",
+			"Ref": "cfe5560f-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Газова",
+			"Ref": "7ab2bb9f-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Газопровідна",
+			"Ref": "ddf36b10-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гайдай Зої",
+			"Ref": "fcf784f4-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гайова (Дарницький р-н)",
+			"Ref": "d5f4451a-b5cb-11e4-a77a-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гайова (Солом'янський р-н)",
+			"Ref": "a924b87e-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гайсинська",
+			"Ref": "dfccda38-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гайцана Миколи",
+			"Ref": "137bbfc4-414f-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Галаганівська",
+			"Ref": "33e80ed7-5d4a-11e6-a9f2-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Галана Ярослава",
+			"Ref": "157639f6-6879-11dd-a7b7-001d92f78698",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Галицька",
+			"Ref": "f1ffb92c-414e-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гаражна (Дніпровський р-н)",
+			"Ref": "c154392f-0d06-11e6-971e-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гаріна Бориса",
+			"Ref": "bba0da03-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гарматна",
+			"Ref": "122cd4d0-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гаршина",
+			"Ref": "dfccda00-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гастелло Миколи",
+			"Ref": "7c84fd53-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гатна",
+			"Ref": "dfccda80-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гашека Ярослава",
+			"Ref": "8add59e1-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Boulevard",
+			"StreetsType": "бульвар"
+		},
+		{
+			"Description": "Гвардійська",
+			"Ref": "48f392e6-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гвардійський",
+			"Ref": "02cb409f-6fde-11e4-acce-0050568002cf",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Гедройця Єжи",
+			"Ref": "1e25ff07-312e-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Генерала Алмазова ",
+			"Ref": "91d50eba-1380-11e7-95d1-005056887b8d",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Генерала Ватутіна",
+			"Ref": "08fd12a5-414b-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Генерала Воробйова Геннадія",
+			"Ref": "fc33a268-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Генерала Грекова",
+			"Ref": "d72816b0-28cd-11eb-80fb-b8830365bd04",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Генерала Шаповала",
+			"Ref": "3d099acb-39e4-11e9-91ff-0025b501a04b",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Георгіївський",
+			"Ref": "8c1558ce-414c-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Геофізиків",
+			"Ref": "1aea7281-0a3e-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Геофізиків (Бортничі)",
+			"Ref": "6f6a5b08-4154-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Герасименка Костянтина",
+			"Ref": "b1096691-f514-11de-b82a-000c2965ae0e",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Героїв Бреста",
+			"Ref": "e6f5bfdb-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Героїв Великої Вітчизняної Війни",
+			"Ref": "c9915915-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Square",
+			"StreetsType": "площа"
+		},
+		{
+			"Description": "Героїв Війни (Жуляни)",
+			"Ref": "ae44927a-64e9-11dd-a7b7-001d92f78698",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Героїв Дніпра",
+			"Ref": "4047af33-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Героїв Космосу",
+			"Ref": "19c1bea0-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Героїв Крут",
+			"Ref": "c9915927-9b80-11dd-9f19-001d92f78697",
+			"StreetsTypeRef": "Avenue",
+			"StreetsType": "алея"
+		},
+		{
+			"Description": "Героїв Небесної Сотні (вул. Інститутська)",
+			"Ref": "f1a4124d-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Avenue",
+			"StreetsType": "алея"
+		},
+		{
+			"Description": "Героїв Оборони",
+			"Ref": "d660e382-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Героїв Севастополя",
+			"Ref": "cfe5563f-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Героїв Сталінграду",
+			"Ref": "61183169-4146-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Prospectus",
+			"StreetsType": "просп."
+		},
+		{
+			"Description": "Герцена",
+			"Ref": "1a89ac45-414a-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Герцена",
+			"Ref": "1aea7280-0a3e-11de-b6f5-001d92f78697",
+			"StreetsTypeRef": "Lane",
+			"StreetsType": "пров."
+		},
+		{
+			"Description": "Гетьмана Вадима",
+			"Ref": "c55c908c-4148-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		},
+		{
+			"Description": "Гійома де Боплана (Боженка Вигурівщина-Троєщина)",
+			"Ref": "7ab2bb97-4149-11dd-9198-001d60451983",
+			"StreetsTypeRef": "Street",
+			"StreetsType": "вул."
+		}
+	],
+	"errors": [],
+	"warnings": [],
+	"info": {
+		"totalCount": 2799
+	},
+	"messageCodes": [],
+	"errorCodes": [],
+	"warningCodes": [],
+	"infoCodes": []
+}

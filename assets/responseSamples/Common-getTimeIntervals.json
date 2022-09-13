@@ -1,0 +1,84 @@
+{
+	"success": true,
+	"data": [
+		{
+			"Number": "CityDeliveryTimeInterval1",
+			"Start": "09:00",
+			"End": "12:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeInterval2",
+			"Start": "12:00",
+			"End": "15:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeInterval3",
+			"Start": "15:00",
+			"End": "19:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeInterval4",
+			"Start": "09:00",
+			"End": "18:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeInterval5",
+			"Start": "09:00",
+			"End": "19:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeInterval6",
+			"Start": "18:00",
+			"End": "21:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeIntervalPostomat1",
+			"Start": "09:00",
+			"End": "12:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeIntervalPostomat2",
+			"Start": "12:00",
+			"End": "15:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeIntervalPostomat3",
+			"Start": "15:00",
+			"End": "19:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeIntervalPostomat4",
+			"Start": "09:00",
+			"End": "18:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeIntervalPostomat5",
+			"Start": "09:00",
+			"End": "19:00",
+			"onNextDay": 0
+		},
+		{
+			"Number": "CityDeliveryTimeIntervalPostomat6",
+			"Start": "18:00",
+			"End": "21:00",
+			"onNextDay": 0
+		}
+	],
+	"errors": [],
+	"warnings": [],
+	"info": [],
+	"messageCodes": [],
+	"errorCodes": [],
+	"warningCodes": [],
+	"infoCodes": []
+}

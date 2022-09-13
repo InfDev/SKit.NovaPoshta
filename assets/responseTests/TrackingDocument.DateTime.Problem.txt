@@ -1,0 +1,24 @@
+2022-09-02 16:08:14
+-------------------------
+lastCreatedOnTheBasisDateTime
+lastTransactionDateTimeGM
+paymentStatusDate
+datePayedKeeping
+trackingUpdateDate
+
+01-09-2022 17:09:52
+-------------------
+dateCreated
+recipientDateTime
+scheduledDeliveryDate
+
+
+16:08 02.09.2022
+------------------
+dateScan
+
+2022-09-10
+--------------------
+dateFirstDayStorage
+actualDeliveryDate
+
