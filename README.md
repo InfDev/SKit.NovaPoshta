@@ -4,6 +4,8 @@ Language: [English](README.md) | [Русский](README.ru.md) | [Україн�
 
 Client to the web-services of the postal and cargo company "[Nova Poshta](https://novaposhta.ua/eng/)".
 
+Packages in the repository [nuget.org](https://www.nuget.org/packages?q=SKit.NovaPoshta).
+
 General restrictions: **API version 2**, **json format**, **.NET platform 6.0+**
 
 ![Client](./assets/images/nova-poshta.client.png)

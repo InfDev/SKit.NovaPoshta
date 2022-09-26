@@ -4,6 +4,8 @@
 
 Клієнт до веб-сервісів поштово-вантажної компанії "[Нова пошта](https://novaposhta.ua/)".
 
+Пакети у репозиторії [nuget.org](https://www.nuget.org/packages?q=SKit.NovaPoshta).
+
 Загальні обмеження: **API версії 2**, **формат json**, **платформа .NET 6.0+**
 
 ![Client](./assets/images/nova-poshta.client.png)
